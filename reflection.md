@@ -7,4 +7,4 @@ The assignment was a good exercise to get familiar with scripting, and what the 
 ### reflections / improvements
 
 Also beyond the scope of the class. But I learned that there is switch-case in bash that can be useful!!
-also I needed to add `>&2`. This prints to stderr rather than stdout. dSO that we added on the end of all of the echo'd outputs that exits 1. Also, using $(()), and the difference between $(), $(()) and \`\`. and the difference between them. 
+also I needed to add `>&2`. This prints to stderr rather than stdout. dSO that we added on the end of all of the echo'd outputs that exits 1. Also, using $(()), and the difference between $(), $(()) and `\`. and the difference between them. 
